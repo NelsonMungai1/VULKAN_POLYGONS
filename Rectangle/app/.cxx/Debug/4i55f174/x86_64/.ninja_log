@@ -1,0 +1,5 @@
+# ninja log v5
+2	22363	7295185283920425	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	d6bbd4b94a3dc750
+22385	23039	7295185292971868	C:/Users/Mungai/AndroidStudioProjects/HelloVK/app/build/intermediates/cxx/Debug/4i55f174/obj/x86_64/libhellovkjni.so	269488db6473f9f
+15	4295	7296085615728966	CMakeFiles/hellovkjni.dir/vk_main.cpp.o	d6bbd4b94a3dc750
+4296	4709	7296085619904518	C:/Users/Mungai/AndroidStudioProjects/HelloVK/app/build/intermediates/cxx/Debug/4i55f174/obj/x86_64/libhellovkjni.so	269488db6473f9f
