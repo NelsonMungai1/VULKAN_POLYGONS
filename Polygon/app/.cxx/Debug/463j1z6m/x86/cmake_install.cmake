@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Mungai/AndroidStudioProjects/Polygon/app/src/main/cpp
+# Install script for directory: C:/Users/Mungai/AndroidStudioProjects/VULKAN_POLYGONS/Polygon/app/src/main/cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Mungai/AndroidStudioProjects/Polygon/app/.cxx/Debug/463j1z6m/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Mungai/AndroidStudioProjects/VULKAN_POLYGONS/Polygon/app/.cxx/Debug/463j1z6m/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

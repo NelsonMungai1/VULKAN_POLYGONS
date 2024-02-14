@@ -11,15 +11,16 @@ layout(binding = 0) uniform UniformBufferObject {
 } ubo;
 
 vec2 positions[6] = vec2[](
-    vec2(0.625, 0.125),
-    vec2(1, 0.125),
-    vec2(1.0, 0.5),
-    vec2(1.0, 0.5),
-    vec2(0.625, 0.5),
-    vec2(0.625, 0.125)
+    vec2(0.625, 0.125), //top left
+    vec2(1, 0.125), //top left
+    vec2(1.0, 0.5), //top right
+    vec2(1.0, 0.5), //top right
+    vec2(0.625, 0.5),   //bottom right
+    vec2(0.625, 0.125)  //bottom left
 );
 
 vec3 colors[6] = vec3[](
+//selection of the similar colors for all the vertices
     vec3(1.0, 1.0, 0.0),
     vec3(1.0, 1.0, 0.0),
     vec3(1.0, 1.0, 0.0),

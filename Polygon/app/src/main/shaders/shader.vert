@@ -11,19 +11,17 @@ layout(binding = 0) uniform UniformBufferObject {
 } ubo;
 
 vec2 positions[12] = vec2[](
-        vec2(1.0,0.4),
-        vec2(0.8,0.8),
-        vec2(0.3,0.8),
-        vec2(0.3,0.8),
-        vec2(0.8,0.0),
-        vec2(1.0,0.4),
-        vec2(0.8,0.8),
-        vec2(0.3,0.8),
-        vec2(0.0,0.4),
         vec2(0.2,0.0),
         vec2(0.8,0.0),
-        vec2(0.0,0.4)
-
+        vec2(1.0,0.4),
+        vec2(1.0,0.4),
+        vec2(0.3,0.8),
+        vec2(0.7,0.8),
+        vec2(0.7,0.8),
+        vec2(0.0,0.4),
+        vec2(0.2,0.0),
+        vec2(1.0,0.4),
+        vec2(0.7,0.8),
 );
 
 vec3 colors[12] = vec3[](

@@ -1,19 +1,19 @@
 {
   "buildFiles": [
-    "C:\\Users\\Mungai\\AndroidStudioProjects\\Polygon\\app\\src\\main\\cpp\\CMakeLists.txt"
+    "C:\\Users\\Mungai\\AndroidStudioProjects\\VULKAN_POLYGONS\\Polygon\\app\\src\\main\\cpp\\CMakeLists.txt"
   ],
   "cleanCommandsComponents": [
     [
       "C:\\Users\\Mungai\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "C:\\Users\\Mungai\\AndroidStudioProjects\\Polygon\\app\\.cxx\\Debug\\463j1z6m\\x86",
+      "C:\\Users\\Mungai\\AndroidStudioProjects\\VULKAN_POLYGONS\\Polygon\\app\\.cxx\\Debug\\463j1z6m\\x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "C:\\Users\\Mungai\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "C:\\Users\\Mungai\\AndroidStudioProjects\\Polygon\\app\\.cxx\\Debug\\463j1z6m\\x86",
+    "C:\\Users\\Mungai\\AndroidStudioProjects\\VULKAN_POLYGONS\\Polygon\\app\\.cxx\\Debug\\463j1z6m\\x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {
@@ -21,7 +21,7 @@
       "toolchain": "toolchain",
       "abi": "x86",
       "artifactName": "hellovkjni",
-      "output": "C:\\Users\\Mungai\\AndroidStudioProjects\\Polygon\\app\\build\\intermediates\\cxx\\Debug\\463j1z6m\\obj\\x86\\libhellovkjni.so",
+      "output": "C:\\Users\\Mungai\\AndroidStudioProjects\\VULKAN_POLYGONS\\Polygon\\app\\build\\intermediates\\cxx\\Debug\\463j1z6m\\obj\\x86\\libhellovkjni.so",
       "runtimeFiles": []
     }
   },
